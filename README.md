@@ -1,5 +1,6 @@
-![logo](https://github.com/user-attachments/assets/3144473b-c376-494a-b0a2-c1c04a491a22)
-)
+![logo](https://github.com/user-attachments/assets/ade67c5d-1b3a-4153-a583-3c0f7cc370bc)
+
+
 <h1 align="center">Hi 👋, I'm Rishabh Jain</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align = "right" alt ="coading" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?semt=ais_hybrid&w=740">
